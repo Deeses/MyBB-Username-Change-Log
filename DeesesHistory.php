@@ -7,11 +7,11 @@ $plugins->add_hook('misc_start','ShowNames');
 function DeesesHistory_info()
 {
 	return array(
-		"name"			=> "Deesus History - Username History",
-		"description"	=> "This plugin displays a history of usernames for each user.",
+		"name"			=> "Deeses History - Username History",
+		"description"		=> "This plugin displays a history of usernames for each user.",
 		"website"		=> "http://personalperson.pw",
 		"author"		=> "PersonalPerson",
-		"authorsite"	=> "http://personalperson.pw",
+		"authorsite"		=> "http://personalperson.pw",
 		"version"		=> "1.0"
 	);
 }
